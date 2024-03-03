@@ -200,3 +200,11 @@
 [14:32:18] [Server thread/INFO]: /setidletimeout <minutes>
 [14:32:18] [Server thread/INFO]: /stop
 [14:32:18] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[14:35:02] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:35:02] [Server thread/INFO]: my ip<--[HERE]
+[14:37:36] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:37:36] [Server thread/INFO]: ./node_modules/.bin/ngrok tcp 25565<--[HERE]
+[14:45:12] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:45:12] [Server thread/INFO]: ifconfig | grep inet<--[HERE]
+[14:46:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:46:42] [Server thread/INFO]: ssh -L 25565:localhost:25565 user@your_server<--[HERE]
