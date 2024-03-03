@@ -208,3 +208,5 @@
 [14:45:12] [Server thread/INFO]: ifconfig | grep inet<--[HERE]
 [14:46:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [14:46:42] [Server thread/INFO]: ssh -L 25565:localhost:25565 user@your_server<--[HERE]
+[14:48:56] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[14:48:56] [Server thread/INFO]: npm i ngrok --save-dev<--[HERE]
